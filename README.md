@@ -1,3 +1,6 @@
+Travail réalisé par,
+Nguiffo Gilles Roy NGUG22060400
+Meijomo Hillary Alexandra MEJM28530300
 
 1. Description du projet
 
